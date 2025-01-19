@@ -6,7 +6,7 @@
 <img src="header.jpg" width="1000">
 <br>
 <h1 style="color:black;">Under Construction</h1>
-  <h1 style="color:black;">Check Back Later!n</h1>
+  <h1 style="color:black;">Check Back Later!</h1>
 <img src="4.jpg">
 <img src="5.jpg">
 <img src="7.jpg">
