@@ -3,7 +3,7 @@
 </head>
 <body>
 <center>
-<img src="header.jpg" width="2000">
+<img src="header.jpg" width="1000">
 <br>
 
 <img src="4.jpg">
