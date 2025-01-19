@@ -5,7 +5,7 @@
 <center>
 <img src="header.jpg" width="1000">
 <br>
-<Font Color="000000">TEST
+<h1 style="color:blue;">This is a heading</h1>
 <img src="4.jpg">
 <img src="5.jpg">
 <img src="7.jpg">
